@@ -221,3 +221,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data
+data/raw/*
+data/processed/*
+
+# Keep README files
+!data/raw/README.md
+!data/processed/README.md
