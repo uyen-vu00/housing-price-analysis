@@ -18,13 +18,13 @@ Which property characteristics are most strongly associated with housing prices,
 
 ## Dataset
 
-**Dataset:** Ames Housing Dataset  
-**Location:** Ames, Iowa, USA  
-**Target variable:** `SalePrice`
+This project uses the Ames Housing dataset, downloaded from Kaggle.
 
-The dataset contains residential property sales information and a variety of property characteristics, including size, quality, age, location, and facilities.
+- **Source:** [Kaggle – Ames Housing](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset?select=AmesHousing.csv)
+- **File:** `train.csv`
+- **Target variable:** `SalePrice`
 
-**Source:** [OpenML — Ames Housing Dataset](https://www.openml.org/search?id=42563&type=data)
+The original dataset is not included in this repository.
 
 The dataset will be used for educational and exploratory analysis.
 
